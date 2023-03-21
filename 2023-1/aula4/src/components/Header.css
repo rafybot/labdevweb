@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+img {
+    width: 200px;
+    margin-right: 2em;
+}

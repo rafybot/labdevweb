@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../assets/image/FATEC_ZONA_LESTE.png'
+import './Header.css';
 const Header = () => {
   return (
     <header>
