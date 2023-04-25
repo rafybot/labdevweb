@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     display: flex;
     justify-content: center;
@@ -9,3 +10,25 @@ img {
     width: 200px;
     margin-right: 2em;
 }
+=======
+header{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: #dcdcdc;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 40%;
+    height: auto;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+
+}
+
+>>>>>>> acb5b66b16fa9b1ec35b4cbbcde5fe6af47b52b1
